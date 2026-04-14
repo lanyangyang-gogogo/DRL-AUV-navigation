@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lzde/uuv_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/lzde/uuv_ws/src/dave-master/gazebo/dave_gazebo_model_plugins/include/**",
+        "/home/lzde/uuv_ws/src/dave-master/gazebo/dave_gazebo_ros_plugins/include/**",
+        "/home/lzde/uuv_ws/src/dave-master/gazebo/dave_gazebo_world_plugins/include/**",
+        "/home/lzde/uuv_ws/src/ds_msgs-nps_dev/ds_nmea_parsers/include/**",
+        "/home/lzde/uuv_ws/src/ds_msgs-nps_dev/ds_sensor_parsers/include/**",
+        "/home/lzde/uuv_ws/src/ds_sim-nps_dev/include/**",
+        "/home/lzde/uuv_ws/src/nps_uw_multibeam_sonar-main/include/**",
+        "/home/lzde/uuv_ws/src/rviz_sonar_image-noetic/include/**",
+        "/home/lzde/uuv_ws/src/uuv_simulator-noetic/uuv_gazebo_plugins/uuv_gazebo_plugins/include/**",
+        "/home/lzde/uuv_ws/src/uuv_simulator-noetic/uuv_gazebo_plugins/uuv_gazebo_ros_plugins/include/**",
+        "/home/lzde/uuv_ws/src/uuv_simulator-noetic/uuv_sensor_plugins/uuv_sensor_ros_plugins/include/**",
+        "/home/lzde/uuv_ws/src/uuv_simulator-noetic/uuv_world_plugins/uuv_world_plugins/include/**",
+        "/home/lzde/uuv_ws/src/uuv_simulator-noetic/uuv_world_plugins/uuv_world_ros_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
