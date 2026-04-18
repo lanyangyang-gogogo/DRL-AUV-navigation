@@ -1,6 +1,7 @@
 # DRL-AUV-navigation
 
 本研究介绍了一种无先验地图情况下基于深度强化学习TD3算法的AUV避障导航方法，该方法使用ROS Gazebo仿真器。AUV在仿真环境中导航至随机目标点并避开障碍物。该模型在ROS Gazebo仿真器中使用PyTorch进行训练，并在Ubuntu 20.04系统上使用ROS Noetic进行全部的训练和测试。
+一些问题和补充我写在了这里：(https://blog.csdn.net/gggggg123_/article/details/160282374?sharetype=blogdetail&sharerId=160282374&sharerefer=PC&sharesource=gggggg123_&spm=1011.2480.3001.8118)
 
 Gazebo：
 <img width="2560" height="1440" alt="2026-04-14 16-45-12 的屏幕截图" src="https://github.com/user-attachments/assets/39cd323c-b319-4de4-a5ae-a722d28abedb" />
